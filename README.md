@@ -20,7 +20,7 @@
   </li>
   <li>
     <h2>
-      Currently working in <a href="https://reactjs.org/"><img src='' alt='React' /></a>
+      Currently working in <a href="https://reactjs.org/"><img src='https://github.com/stackdistrict-sd/stackdistrict-sd/blob/main/react-logo.svg' alt='React' /></a>
     </h2>
   </li>
   <li>
