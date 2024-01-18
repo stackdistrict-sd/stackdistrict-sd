@@ -25,7 +25,7 @@
         h1, h2 {
           font-display: swap;
 					font-family:
-            'Sacramento',
+            'Dosis',
 						system-ui,
 						-apple-system,
 						'Segoe UI',
@@ -58,7 +58,7 @@
             text-shadow:
               calc(1 * var(--positionX)) calc(1 * var(--positionY)) calc(1 * var(--spread)) pink,
               calc(1.5 * var(--positionX)) calc(1.5 * var(--positionY)) calc(2 * var(--spread)) magenta,
-              calc(2 * var(--positionX)) calc(2 * var(--positionY)) calc(3 * var(--spread)) cyan
+              calc(2 * var(--positionX)) calc(2 * var(--positionY)) calc(3 * var(--spread)) yellow
             ;
           }
           
@@ -66,7 +66,7 @@
             text-shadow:
               calc(-1 * var(--positionX)) calc(1 * var(--positionY)) calc(1 * var(--spread)) pink,
               calc(-1.5 * var(--positionX)) calc(1.5 * var(--positionY)) calc(2 * var(--spread)) magenta,
-              calc(-2 * var(--positionX)) calc(2 * var(--positionY)) calc(3 * var(--spread)) cyan
+              calc(-2 * var(--positionX)) calc(2 * var(--positionY)) calc(3 * var(--spread)) yellow
             ;
           }
           
@@ -74,15 +74,15 @@
             text-shadow:
               calc(-1 * var(--positionX)) calc(-1 * var(--positionY)) calc(1 * var(--spread)) pink,
               calc(-1.5 * var(--positionX)) calc(-1.5 * var(--positionY)) calc(2 * var(--spread)) magenta,
-              calc(-2 * var(--positionX)) calc(-2 * var(--positionY)) calc(3 * var(--spread)) cyan
+              calc(-2 * var(--positionX)) calc(-2 * var(--positionY)) calc(3 * var(--spread)) yellow
             ;
           }
           
           75% {
             text-shadow:
-              calc(1 * var(--positionX)) calc(-1 * var(--positionY)) calc(1 * var(--spread)) pink,
-              calc(1.5 * var(--positionX)) calc(-1.5 * var(--positionY)) calc(2 * var(--spread)) magenta,
-              calc(2 * var(--positionX)) calc(-2 * var(--positionY)) calc(3 * var(--spread)) cyan
+              calc(1.5 * var(--positionX)) calc(-1 * var(--positionY)) calc(1 * var(--spread)) pink,
+              calc(2 * var(--positionX)) calc(-1.5 * var(--positionY)) calc(2 * var(--spread)) magenta,
+              calc(2.5 * var(--positionX)) calc(-2 * var(--positionY)) calc(3 * var(--spread)) yellow
             ;
           }          
         }
