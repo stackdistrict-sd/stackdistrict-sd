@@ -23,10 +23,5 @@
       Currently working in <a href="https://reactjs.org/"><img src='https://github.com/stackdistrict-sd/stackdistrict-sd/blob/main/react-logo.svg' alt='React' /></a>
     </h2>
   </li>
-  <li>
-    <h2>
-      Check out my <a href="">website.</a>
-    </h2>
-  </li>
 
 </ul>
